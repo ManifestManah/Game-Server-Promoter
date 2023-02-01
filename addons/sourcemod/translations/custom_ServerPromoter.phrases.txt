@@ -9,7 +9,7 @@
 	"Message - Hint Area"
 	{
 		"#format"		"{1:s}"
-		"en"			"The server has moved! Join the new server and add {1} to your favorites!"
+		"en"			"The server has moved!\nJoin the new server and add it to your favorites!\nNew server IP: {1}"
 	}
 	
 	"Message - Player Console First Line"
@@ -25,6 +25,6 @@
 	"Message - Center Screen"
 	{
 		"#format"		"{1:s}"
-		"en"			"Join our new server and add it to favorites! {1}"
+		"en"			"This server is closing!\nJoin our new server and add it to favorites!\n {1}"
 	}
 }
