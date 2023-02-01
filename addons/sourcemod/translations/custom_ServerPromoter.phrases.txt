@@ -1,0 +1,30 @@
+"Phrases"
+{
+	"Message - Chat"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[IMPORTANT!]:{default} The server has moved to another host provider. Add the new server to your favorites: {lightgreen} {1}{default}"
+	}
+	
+	"Message - Hint Area"
+	{
+		"#format"		"{1:s}"
+		"en"			"The server has moved! Join the new server and add {1} to your favorites!"
+	}
+	
+	"Message - Player Console First Line"
+	{
+		"en"			"The server has moved!"
+	}
+
+	"Message - Player Console Second Line"
+	{
+		"en"			"Join the new server and add it to your favorites!"
+	}
+	
+	"Message - Center Screen"
+	{
+		"#format"		"{1:s}"
+		"en"			"Join our new server and add it to favorites! {1}"
+	}
+}
